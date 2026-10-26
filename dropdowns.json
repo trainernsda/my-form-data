@@ -1,4 +1,4 @@
-{
+<CodeBlock language="json">{
   "Identification_Type": [
     "National ID",
     "Birth Certificate"
@@ -142,3 +142,4 @@
     "Enter course names here"
   ]
 }
+</CodeBlock>
