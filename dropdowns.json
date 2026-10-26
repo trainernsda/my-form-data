@@ -115,6 +115,14 @@
 "Unemployed",
 "Other"],
 
+
+
+"Address_Type": [
+"City Corporation"
+"Municipality"
+"Union"],
+
+
   
   "Area_Type": [
     "Urban",
