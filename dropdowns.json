@@ -1,36 +1,26 @@
 {
   "Identification_Type": [
-    "NID",
-    "Birth Registration",
-    "Passport",
-    "Other"
-  ],
+    "National ID",
+    "Birth Certificate"  ],
   "Sex": [
     "Male",
     "Female",
-    "Other"
-  ],
+    "Other"  ],
   "PWD": [
     "Yes",
-    "No"
-  ],
+    "No"  ],
   "If_'Yes'_Type_of_Disability": [
-    "Physical Disability",
-    "Visual Disability",
-    "Hearing Disability",
-    "Speech Disability",
-    "Intellectual Disability",
-    "Autism",
-    "Multiple Disabilities",
-    "Other"
-  ],
+    "Hearing impaired",
+    "visually impaired",
+    "Speech impaired",
+    "Intellectually disabled",
+    "Physically handicapped"  ],
   "Religion": [
     "Islam",
     "Hinduism",
     "Buddhism",
     "Christianity",
-    "Other"
-  ],
+    "Other(specify)"  ],
   "Blood_Group": [
     "A+",
     "A-",
@@ -39,16 +29,12 @@
     "AB+",
     "AB-",
     "O+",
-    "O-",
-    "Unknown"
-  ],
+    "O-"  ],
   "Marital_Status": [
     "Single",
     "Married",
     "Divorced",
-    "Widowed",
-    "Separated"
-  ],
+    "Widowed"  ],
   "Bank_Account": [
     "Yes",
     "No"
