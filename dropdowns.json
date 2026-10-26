@@ -49,7 +49,10 @@
     "Widowed"  ],
 
   
-
+"Bank_Account": [
+    "Yes",
+    "No"
+  ],
 
   
   "Father's_Occupation": [
