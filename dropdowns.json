@@ -6,8 +6,7 @@
     "Male",
     "Female",
     "Other"  ],
-  "PWD": [
-    "Yes",
+  "PWD": [    "Yes",
     "No"  ],
   "If_'Yes'_Type_of_Disability": [
     "Hearing impaired",
@@ -4532,6 +4531,42 @@
 
 
 
+
+
+"Nature_of_work": [
+    "Agriculture and Farming",
+"Business and Entrepreneurship",
+"Construction Work",
+"Digital Marketing",
+"Driving and Transportation",
+"Formal Employment",
+"Freelancing",
+"Government Service",
+"Graphic Design and Creative Work",
+"Homemaker",
+"Industrial and Factory Work",
+"Informal Employment",
+"IT and Computer-Related Work",
+"Job Seeker",
+"Other",
+"Private Service",
+"Retail and Shopkeeping",
+"Sales and Marketing",
+"Self-Employed",
+"Skilled Worker",
+"Student",
+"Teaching and Training",
+"Technical and Professional Work",
+"Unemployed",
+"Unskilled Worker"  ],
+
+
+
+
+
+
+
+  
 
   
   
