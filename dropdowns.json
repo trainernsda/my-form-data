@@ -2,24 +2,35 @@
   "Identification_Type": [
     "National ID",
     "Birth Certificate"  ],
+
+
+  
   "Sex": [
     "Male",
     "Female",
     "Other"  ],
+
+  
   "PWD": [    "Yes",
     "No"  ],
+
+  
   "If_'Yes'_Type_of_Disability": [
     "Hearing impaired",
     "visually impaired",
     "Speech impaired",
     "Intellectually disabled",
     "Physically handicapped"  ],
+
+  
   "Religion": [
     "Islam",
     "Hinduism",
     "Buddhism",
     "Christianity",
     "Other(specify)"  ],
+
+  
   "Blood_Group": [
     "A+",
     "A-",
@@ -29,15 +40,21 @@
     "AB-",
     "O+",
     "O-"  ],
+
+  
   "Marital_Status": [
     "Single",
     "Married",
     "Divorced",
     "Widowed"  ],
+
+  
   "Bank_Account": [
     "Yes",
     "No"
   ],
+
+  
   "Father's_Occupation": [
     "Agricultural Worker",
 "Bank Employee",
