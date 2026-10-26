@@ -1,11 +1,146 @@
 {
   "Identification_Type": [
-    "National ID",
-    "Birth Certificate"
+    "NID",
+    "Birth Registration",
+    "Passport",
+    "Other"
   ],
   "Sex": [
     "Male",
     "Female",
     "Other"
+  ],
+  "PWD": [
+    "Yes",
+    "No"
+  ],
+  "If_'Yes'_Type_of_Disability": [
+    "Physical Disability",
+    "Visual Disability",
+    "Hearing Disability",
+    "Speech Disability",
+    "Intellectual Disability",
+    "Autism",
+    "Multiple Disabilities",
+    "Other"
+  ],
+  "Religion": [
+    "Islam",
+    "Hinduism",
+    "Buddhism",
+    "Christianity",
+    "Other"
+  ],
+  "Blood_Group": [
+    "A+",
+    "A-",
+    "B+",
+    "B-",
+    "AB+",
+    "AB-",
+    "O+",
+    "O-",
+    "Unknown"
+  ],
+  "Marital_Status": [
+    "Single",
+    "Married",
+    "Divorced",
+    "Widowed",
+    "Separated"
+  ],
+  "Bank_Account": [
+    "Yes",
+    "No"
+  ],
+  "Father's_Occupation": [
+    "Farmer",
+    "Business",
+    "Service",
+    "Day Laborer",
+    "Driver",
+    "Unemployed",
+    "Other"
+  ],
+  "Mother's_Occupation": [
+    "Housewife",
+    "Farmer",
+    "Business",
+    "Service",
+    "Day Laborer",
+    "Other"
+  ],
+  "Area_Type": [
+    "Urban",
+    "Rural",
+    "Semi-Urban"
+  ],
+  "Ethnicity": [
+    "Bengali",
+    "Chakma",
+    "Marma",
+    "Tripura",
+    "Garo",
+    "Santal",
+    "Other"
+  ],
+  "Board_University": [
+    "Dhaka Board",
+    "Chattogram Board",
+    "Cumilla Board",
+    "Rajshahi Board",
+    "Jashore Board",
+    "Barishal Board",
+    "Sylhet Board",
+    "Dinajpur Board",
+    "Mymensingh Board",
+    "Madrasah Board",
+    "Technical Board",
+    "National University",
+    "Public University",
+    "Private University",
+    "Other"
+  ],
+  "Educational_Qualification": [
+    "Primary",
+    "JSC",
+    "SSC",
+    "HSC",
+    "Diploma",
+    "Bachelor's",
+    "Master's",
+    "PhD",
+    "Other"
+  ],
+  "Highest_Education_Institute_Name": [
+    "Enter institute names here"
+  ],
+  "Number_of_Household_Member": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10 or more"
+  ],
+  "Source_of_Household_Income": [
+    "Agriculture",
+    "Business",
+    "Salary",
+    "Day Labor",
+    "Remittance",
+    "Fishing",
+    "Other"
+  ],
+  "Received_any_skills_training_in_the_past": [
+    "Yes",
+    "No"
+  ],
+  "Name_of_Course": [
+    "Enter course names here"
   ]
 }
