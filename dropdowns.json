@@ -1,10 +1,8 @@
 ```json
 {
   "Identification_Type": [
-    "NID",
-    "Birth Registration",
-    "Passport",
-    "Other"
+    "National ID",
+    "Birth Certificate"
   ],
   "Sex": [
     "Male",
